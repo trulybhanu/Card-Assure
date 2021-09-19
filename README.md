@@ -1,2 +1,7 @@
-# Debit-Credit-Card-Number-Validator
-This is a C++ program to validate Debit/Credit card number. It uses Luhn algorithm checksum to validate card number.
+<h2 align="center">
+  Debit/Credit Card Number Validator
+</h2>
+
+<div align="center">
+  <img alt="Demo" src="./demo.png" />
+</div>

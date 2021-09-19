@@ -1,5 +1,5 @@
 //   C++ Program to validate Debit/Credit card number
-//   Required Algorithm: Luhn Algorithm Checksum.
+//   Required Algorithm: Luhn's Checksum Algorithm.
 //   Author: Bhanu Pratap
 
 #include <stdio.h>
@@ -8,7 +8,8 @@
 
 using namespace std;
 
-bool isNumericString(string s) // Function to check if entered card number is Numeric
+// Function to check if entered card number is Numeric
+bool isNumericString(string s)
 {
     for (int i = 0; i < s.length(); i++)
     {
