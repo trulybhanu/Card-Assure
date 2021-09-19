@@ -35,4 +35,4 @@ That's all, now you can use this program.
 
 ## Show your support
 
-Give a ⭐ if you like this repository!
+Give a ⭐ if you like this repository. Thanks!
